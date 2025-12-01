@@ -1,16 +1,50 @@
 # Sneatch E-Commerce Full Frontend
 
-## A fully non functional example
+### A school project to build a complete sneaker e-commerce website using only HTML & CSS.
 
-The project is older than the date I published it. It was a assignment from school to make a e-commerce website using only HTML and CSS. So the website doesn't have any usable function, but show my design skill to make a user friendly and beautiful website.
-These are the none usable function of the website:
+## 🛒 Overview
 
-* Long in
-* Sign up
-* A precise filter
-* chackout
-* Catalog
-* A loop video home page
-* A contact page
+Sneaker_Ecommerce_Full_Frontend is a front-end-only website that showcases sneaker products from various brands.
+It includes multiple pages such as the home page, product listings, product detail sections, and a contact page.
+This project was created as part of my academic work.
 
-## See the look of the Site
+## 🚀 Features
+*	📝 Contact Form
+*	🖼️ Product Gallery
+*	🔐 Login / Logout (front-end simulation only)
+* 🛍️ Checkout Page (UI only)
+* 🎥 Looping Background Video on Home Page
+* 📱 Responsive Layout (HTML & CSS only)
+
+## 🛠️ Tech Stack
+*	Languages: HTML, CSS
+*	Design Inspiration: Nike website (UI/UX reference)
+*	Status: ✔️ Completed
+
+## 📂 Running the Project Locally
+    # Clone the repository
+    git clone https://github.com/Tolaman/Sneaker_Ecommerce_Full_Frontend.git
+    
+    # Open the folder
+    cd Sneaker_Ecommerce_Full_Frontend
+    
+    # Open the main file
+    open index.html   # (on Mac)
+    # OR double-click index.html
+#### No installation or dependencies required — pure HTML & CSS.
+
+## 📸 Screenshots / Demo
+### 🖼️ Home Page
+<img src="screenshots/home.png" alt="Home Page Screenshot" width="800"/>
+
+### 🎥 Background Video Demo
+<img src="screenshots/demo.gif" alt="Video Background Demo" width="800"/>
+
+## 📜 License
+his project is licensed under the MIT License.
+This means anyone can use your code, but they must give you credit.
+
+    MIT License © 2024 Michee Luzayisu
+
+## 🙌 Author
+### Michee Luzayisu
